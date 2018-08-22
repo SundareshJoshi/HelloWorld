@@ -16,7 +16,7 @@ Pod::Spec.new do |s|
   #
 
   s.name         = "HelloWorld"
-  s.version      = "1.0.1"
+  s.version      = "1.0.0"
   s.summary      = "HelloWorld is a framework"
 
   s.homepage     = "https://github.com/SundareshJoshi"
